@@ -1,6 +1,6 @@
 # About the project
 
-Here a simple Text-Editor which allows to put text in bold, uderline and italic. 
+Here a simple Text-Editor which allows to write text in bold, underline and italic. 
 
 The project includes the following features:     
 - 1️⃣ Paragraph formatting.
